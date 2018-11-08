@@ -54,7 +54,7 @@
             // 
             // btnParseTrades
             // 
-            this.btnParseTrades.Location = new System.Drawing.Point(303, 67);
+            this.btnParseTrades.Location = new System.Drawing.Point(306, 67);
             this.btnParseTrades.Name = "btnParseTrades";
             this.btnParseTrades.Size = new System.Drawing.Size(187, 60);
             this.btnParseTrades.TabIndex = 1;
